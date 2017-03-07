@@ -1,0 +1,30 @@
+C:\documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\フォント変換\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\フォント変換\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\フォント変換\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\フォント変換\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\フォント変換\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\フォント変換\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\フォント変換\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\フォント変換\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+E:\フォント変換\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\フォント変換\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\Home\mente\Desktop\Ichigoフォント変換\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\Home\mente\Desktop\Ichigoフォント変換\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\Home\mente\Desktop\Ichigoフォント変換\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\Home\mente\Desktop\Ichigoフォント変換\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\Home\mente\Desktop\Ichigoフォント変換\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\Home\mente\Desktop\Ichigoフォント変換\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\Home\mente\Desktop\Ichigoフォント変換\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\Home\mente\Desktop\Ichigoフォント変換\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\Home\mente\Desktop\Ichigoフォント変換\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\Home\mente\Desktop\Ichigoフォント変換\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form_Fconv.resources
