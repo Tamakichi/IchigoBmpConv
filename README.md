@@ -1,2 +1,2 @@
-# IchigoBmpConv
-IchigoJam用画像コンバータ
+#IchigoJam用画像コンバータ
+
