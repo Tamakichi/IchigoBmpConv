@@ -1,10 +1,14 @@
 # IchigoJam用画像コンバータ
+![ツール画像](./image/top.jpg)  
 
-![ツール画像](./image/top.jpg)
 ## 概要
 画像ファイルをIchigoJamの疑似グラフィック表示プログラムに変換するツールです.  
 MS Windows 7/8/8.1/10環境で利用出来ます.  
 画像ファイルはJPG,GIF,BMP,PNGに対応しています(BMP推奨).  
+
+**実行例**  
+![実行例](./image/09.jpg)  
+![実行例](./image/10.jpg)  
 
 ## 利用環境
 - 対応OS Windows 7/8/8.1/10  
