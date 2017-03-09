@@ -123,3 +123,7 @@ IchigoJamの16進数形式で出力します.
  ![画像](./image/07.JPG)  
  
 
+## その他
+IchigoJamでの実行例のQRコード画像作成は下記のサイトを利用させていただきました.  
+QRコードBlog  
+http://www.qrcodeblog.com/date/qrcgi/  
