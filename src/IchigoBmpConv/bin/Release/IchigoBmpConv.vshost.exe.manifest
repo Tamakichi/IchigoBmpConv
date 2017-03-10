@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IchigoBmpConv.exe" size="38776">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IchigoBmpConv.exe" size="37888">
       <assemblyIdentity name="IchigoBmpConv" version="1.0.0.4" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>MXT521N7MqugowGzRlw6HAryaOQ=</dsig:DigestValue>
+        <dsig:DigestValue>gsGlDRw+KdPdCUcZ4fcH91c6m7k=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
